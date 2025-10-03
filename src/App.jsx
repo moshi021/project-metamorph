@@ -144,7 +144,7 @@ export default function PlantGrowthLab() {
             </ul>
 
             <Tip>
-                Regolith=Minerals
+                Regolith=Minerals,To support ISRU mission
             </Tip>
             
             Try 70% Char and 30% Regolith for best results!
