@@ -51,7 +51,7 @@ function Footer() {
     <footer className="mt-16 bg-gradient-to-r from-sky-50 to-emerald-50 border-t border-slate-200">
       <div className="mx-auto max-w-6xl px-4 py-8 text-center text-sm text-slate-600">
         
-        <div className="mt-4 text-xl text-slate-500">Build by Md. Mashiur Rahman</div>
+        <div className="mt-4 text-xl text-slate-500">Build by Md. Mashiur Rahman for NASA Space App Challenge 2025</div>
         <div className="mt-2 text-xl"><a href="https://www.linkedin.com/in/mashiur-rahman-ruet/" target="_blank" rel="noreferrer" className="text-emerald-700 underline">LinkedIn</a></div>
       </div>
     </footer>
